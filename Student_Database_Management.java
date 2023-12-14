@@ -1,4 +1,3 @@
-package Practice.Student_DBMS;
 import java.util.Scanner;
 import java.util.HashMap;
 
